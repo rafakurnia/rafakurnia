@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**rafakurnia/rafakurnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![rafakurnia](img/github-header-banner.png)
 
-Here are some ideas to get you started:
+**ML & Data Enthusiast** |Data-Oriented Thinker | Exploring Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+##  Skills
+
+-  **Python**
+-  **SQL**
+-  **Data Analysis**
+---
+
+##  Tools & Tech Stack
+
+-  Git & GitHub  
+-  Visual Studio Code  
+-  Microsoft Excel  
+-  Machine Learning Libraries *(scikit-learn, pandas, numpy — dapat ditambahkan)*  
+
+---
+
+##  Interests & Project Focus
+
+-  Data Analysis & Exploratory Data Analysis (EDA)
+-  Machine Learning
+-  Data-driven Decision Making
+-  Experimenting with datasets and models
