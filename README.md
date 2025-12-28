@@ -4,7 +4,9 @@
 **ML & Data Enthusiast** |Data-Oriented Thinker | Exploring Machine Learning | Long Life Learning
 
 **Lets Connect:**
-![https://instagram.com/rafakurnia._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/rafakrn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![https://instagram.com/rafakurnia._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![www.linkedin.com/in/rafakrn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
