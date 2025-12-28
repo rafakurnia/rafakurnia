@@ -18,7 +18,7 @@
 -  Git & GitHub  
 -  Visual Studio Code  
 -  Microsoft Excel  
--  Machine Learning Libraries *(scikit-learn, pandas, numpy — dapat ditambahkan)*  
+-  Machine Learning Libraries *(scikit-learn, pandas, numpy)*  
 
 ---
 
