@@ -1,5 +1,4 @@
-![rafakurnia](https://ishan-rest.vercel.app/svg/banner/dev4/IshanOshada)
-![rafakurnia](img/github-header-banner.png)
+![rafakurnia](https://ishan-rest.vercel.app/svg/banner/dev4/Rafakurni.)
 
 **ML & Data Enthusiast** |Data-Oriented Thinker | Exploring Machine Learning | Long Life Learning
 
