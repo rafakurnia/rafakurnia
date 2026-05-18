@@ -1,4 +1,4 @@
-![rafakurnia](https://ishan-rest.vercel.app/svg/banner/dev4/Rafakurni.)
+![rafakurnia](https://ishan-rest.vercel.app/svg/banner/dev4/Rafakurnia.)
 
 **ML & Data Enthusiast** |Data-Oriented Thinker | Exploring Machine Learning | Long Life Learning
 
